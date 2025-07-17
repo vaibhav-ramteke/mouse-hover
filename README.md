@@ -2,7 +2,7 @@
 
 This project automates mouse movement in a square pattern using Python. It can be used to prevent your computer from going idle or to simulate activity.
 
-> Want to appear "always available" on Teams, even when you're grabbing coffee? This project has your back—your boss will think you never left your desk!
+> Want to appear "always available" on Teams, even when you're grabbing coffee? This project has your back. Your boss will think you never left your desk!
 
 ## Features
 
